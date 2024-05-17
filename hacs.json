@@ -1,4 +1,5 @@
 {
-  "name": "Auto load url after a delay",
-  "render_readme": true
+  "name": "Auto load url after a delay",,
+  "render_readme": true,
+  "filename": "auto-loadurl-card.js"
 }

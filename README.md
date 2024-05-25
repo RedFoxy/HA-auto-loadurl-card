@@ -8,7 +8,7 @@ Custom [Lovelace](https://www.home-assistant.io/lovelace) card to use in [Home a
 
 Hey dude! Help me out for a couple of :beers: or a :coffee:!
 
-[![coffee](https://www.buymeacoffee.com/assets/img/custom_images/black_img.png)](https://www.buymeacoffee.com/zJtVxUAgH)
+[![coffee](https://www.buymeacoffee.com/assets/img/custom_images/black_img.png)](https://buymeacoffee.com/redfoxydarrest)
 
 ## Options
 
